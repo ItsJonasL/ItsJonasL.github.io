@@ -1,5 +1,7 @@
 .colorhold {
+    /* this centers the body of words I want*/
     width: 500pX;
     margin: auto;
+    border-color: black;
 
 }
