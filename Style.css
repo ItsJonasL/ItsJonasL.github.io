@@ -2,6 +2,25 @@
     /* this centers the body of words I want*/
     width: 500pX;
     margin: auto;
-    border-color: black;
+    border: this solid black;
+    text-align: center;
+    font-size: 20pX;
+    background-color: azure;
 
+}
+#uno {
+    background-color: bisque;
+}
+#two {
+    background-color: aquamarine;
+}
+.italicdark{
+    font-style: italic;
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+.med{
+    text-align: center;
 }
